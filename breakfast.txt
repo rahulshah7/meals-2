@@ -3,3 +3,7 @@ banana
 coffee from machine that I didn't know how to use
 
 pizza
+
+Unhealthy:
+Bacon
+Sausage
